@@ -1,7 +1,5 @@
 package chapter03
 
-import com.sun.javafx.scene.control.behavior.DatePickerBehavior
-
 object Test01_TestOperator {
   def main(args: Array[String]): Unit = {
     // 1. 算术运算符
